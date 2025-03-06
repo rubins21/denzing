@@ -1,0 +1,277 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/_app";
+exports.ids = ["pages/_app"];
+exports.modules = {
+
+/***/ "./src/components/navbar/denzing.svg":
+/*!*******************************************!*\
+  !*** ./src/components/navbar/denzing.svg ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\"src\":\"/_next/static/media/denzing.6754e760.svg\",\"height\":36,\"width\":208,\"blurWidth\":0,\"blurHeight\":0});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvZGVuemluZy5zdmciLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGlFQUFlLENBQUMsc0dBQXNHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdGhlLXN0YXJ0dXAvLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvZGVuemluZy5zdmc/ZDM0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XCJzcmNcIjpcIi9fbmV4dC9zdGF0aWMvbWVkaWEvZGVuemluZy42NzU0ZTc2MC5zdmdcIixcImhlaWdodFwiOjM2LFwid2lkdGhcIjoyMDgsXCJibHVyV2lkdGhcIjowLFwiYmx1ckhlaWdodFwiOjB9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/navbar/denzing.svg\n");
+
+/***/ }),
+
+/***/ "./src/components/buttons/GhostButton.tsx":
+/*!************************************************!*\
+  !*** ./src/components/buttons/GhostButton.tsx ***!
+  \************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GhostButton: () => (/* binding */ GhostButton)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var tailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! tailwind-merge */ \"tailwind-merge\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([tailwind_merge__WEBPACK_IMPORTED_MODULE_2__]);\ntailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\nconst GhostButton = ({ children, className, ...rest })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"button\", {\n        className: (0,tailwind_merge__WEBPACK_IMPORTED_MODULE_2__.twMerge)(\"rounded-md px-4 py-2 text-lg text-copy transition-all hover:scale-[1.02] hover:bg-border hover:text-copy-dark active:scale-[0.98]\", className),\n        ...rest,\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/buttons/GhostButton.tsx\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, undefined);\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9idXR0b25zL0dob3N0QnV0dG9uLnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7O0FBQXlDO0FBQ0E7QUFPbEMsTUFBTUUsY0FBYyxDQUFDLEVBQUVDLFFBQVEsRUFBRUMsU0FBUyxFQUFFLEdBQUdDLE1BQWE7SUFDakUscUJBQ0UsOERBQUNDO1FBQ0NGLFdBQVdILHVEQUFPQSxDQUNoQixxSUFDQUc7UUFFRCxHQUFHQyxJQUFJO2tCQUVQRjs7Ozs7O0FBR1AsRUFBRSIsInNvdXJjZXMiOlsid2VicGFjazovL3RoZS1zdGFydHVwLy4vc3JjL2NvbXBvbmVudHMvYnV0dG9ucy9HaG9zdEJ1dHRvbi50c3g/OWU3MiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgUmVhY3ROb2RlIH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgeyB0d01lcmdlIH0gZnJvbSBcInRhaWx3aW5kLW1lcmdlXCI7XG5cbnR5cGUgUHJvcHMgPSB7XG4gIGNoaWxkcmVuOiBSZWFjdE5vZGU7XG4gIGNsYXNzTmFtZT86IHN0cmluZztcbn0gJiBSZWFjdC5CdXR0b25IVE1MQXR0cmlidXRlczxIVE1MQnV0dG9uRWxlbWVudD47XG5cbmV4cG9ydCBjb25zdCBHaG9zdEJ1dHRvbiA9ICh7IGNoaWxkcmVuLCBjbGFzc05hbWUsIC4uLnJlc3QgfTogUHJvcHMpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8YnV0dG9uXG4gICAgICBjbGFzc05hbWU9e3R3TWVyZ2UoXG4gICAgICAgIFwicm91bmRlZC1tZCBweC00IHB5LTIgdGV4dC1sZyB0ZXh0LWNvcHkgdHJhbnNpdGlvbi1hbGwgaG92ZXI6c2NhbGUtWzEuMDJdIGhvdmVyOmJnLWJvcmRlciBob3Zlcjp0ZXh0LWNvcHktZGFyayBhY3RpdmU6c2NhbGUtWzAuOThdXCIsXG4gICAgICAgIGNsYXNzTmFtZVxuICAgICAgKX1cbiAgICAgIHsuLi5yZXN0fVxuICAgID5cbiAgICAgIHtjaGlsZHJlbn1cbiAgICA8L2J1dHRvbj5cbiAgKTtcbn07XG4iXSwibmFtZXMiOlsiUmVhY3QiLCJ0d01lcmdlIiwiR2hvc3RCdXR0b24iLCJjaGlsZHJlbiIsImNsYXNzTmFtZSIsInJlc3QiLCJidXR0b24iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/components/buttons/GhostButton.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/buttons/SplashButton.tsx":
+/*!*************************************************!*\
+  !*** ./src/components/buttons/SplashButton.tsx ***!
+  \*************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   SplashButton: () => (/* binding */ SplashButton)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var tailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! tailwind-merge */ \"tailwind-merge\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([tailwind_merge__WEBPACK_IMPORTED_MODULE_2__]);\ntailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\nconst SplashButton = ({ children, className, ...rest })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"button\", {\n        className: (0,tailwind_merge__WEBPACK_IMPORTED_MODULE_2__.twMerge)(\"rounded-md bg-gradient-to-br from-primary-light to-primary-dark px-4 py-2 text-lg text-primary-content ring-2 ring-primary/50 ring-offset-2 ring-offset-background transition-all hover:scale-[1.02] hover:ring-transparent active:scale-[0.98] active:ring-primary/70\", className),\n        ...rest,\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/buttons/SplashButton.tsx\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, undefined);\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9idXR0b25zL1NwbGFzaEJ1dHRvbi50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7OztBQUF5QztBQUNBO0FBT2xDLE1BQU1FLGVBQWUsQ0FBQyxFQUFFQyxRQUFRLEVBQUVDLFNBQVMsRUFBRSxHQUFHQyxNQUFhO0lBQ2xFLHFCQUNFLDhEQUFDQztRQUNDRixXQUFXSCx1REFBT0EsQ0FDaEIsMFFBQ0FHO1FBRUQsR0FBR0MsSUFBSTtrQkFFUEY7Ozs7OztBQUdQLEVBQUUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90aGUtc3RhcnR1cC8uL3NyYy9jb21wb25lbnRzL2J1dHRvbnMvU3BsYXNoQnV0dG9uLnRzeD81NGFmIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBSZWFjdE5vZGUgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCB7IHR3TWVyZ2UgfSBmcm9tIFwidGFpbHdpbmQtbWVyZ2VcIjtcblxudHlwZSBQcm9wcyA9IHtcbiAgY2hpbGRyZW46IFJlYWN0Tm9kZTtcbiAgY2xhc3NOYW1lPzogc3RyaW5nO1xufSAmIFJlYWN0LkJ1dHRvbkhUTUxBdHRyaWJ1dGVzPEhUTUxCdXR0b25FbGVtZW50PjtcblxuZXhwb3J0IGNvbnN0IFNwbGFzaEJ1dHRvbiA9ICh7IGNoaWxkcmVuLCBjbGFzc05hbWUsIC4uLnJlc3QgfTogUHJvcHMpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8YnV0dG9uXG4gICAgICBjbGFzc05hbWU9e3R3TWVyZ2UoXG4gICAgICAgIFwicm91bmRlZC1tZCBiZy1ncmFkaWVudC10by1iciBmcm9tLXByaW1hcnktbGlnaHQgdG8tcHJpbWFyeS1kYXJrIHB4LTQgcHktMiB0ZXh0LWxnIHRleHQtcHJpbWFyeS1jb250ZW50IHJpbmctMiByaW5nLXByaW1hcnkvNTAgcmluZy1vZmZzZXQtMiByaW5nLW9mZnNldC1iYWNrZ3JvdW5kIHRyYW5zaXRpb24tYWxsIGhvdmVyOnNjYWxlLVsxLjAyXSBob3ZlcjpyaW5nLXRyYW5zcGFyZW50IGFjdGl2ZTpzY2FsZS1bMC45OF0gYWN0aXZlOnJpbmctcHJpbWFyeS83MFwiLFxuICAgICAgICBjbGFzc05hbWVcbiAgICAgICl9XG4gICAgICB7Li4ucmVzdH1cbiAgICA+XG4gICAgICB7Y2hpbGRyZW59XG4gICAgPC9idXR0b24+XG4gICk7XG59O1xuIl0sIm5hbWVzIjpbIlJlYWN0IiwidHdNZXJnZSIsIlNwbGFzaEJ1dHRvbiIsImNoaWxkcmVuIiwiY2xhc3NOYW1lIiwicmVzdCIsImJ1dHRvbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/components/buttons/SplashButton.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/navbar/NavBar.tsx":
+/*!******************************************!*\
+  !*** ./src/components/navbar/NavBar.tsx ***!
+  \******************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NavBar: () => (/* binding */ NavBar)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _utils_MaxWidthWrapper__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../utils/MaxWidthWrapper */ \"./src/components/utils/MaxWidthWrapper.tsx\");\n/* harmony import */ var _NavLogo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./NavLogo */ \"./src/components/navbar/NavLogo.tsx\");\n/* harmony import */ var _NavLinks__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./NavLinks */ \"./src/components/navbar/NavLinks.tsx\");\n/* harmony import */ var _NavCTAs__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./NavCTAs */ \"./src/components/navbar/NavCTAs.tsx\");\n/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! framer-motion */ \"framer-motion\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_utils_MaxWidthWrapper__WEBPACK_IMPORTED_MODULE_2__, _NavCTAs__WEBPACK_IMPORTED_MODULE_5__, framer_motion__WEBPACK_IMPORTED_MODULE_6__]);\n([_utils_MaxWidthWrapper__WEBPACK_IMPORTED_MODULE_2__, _NavCTAs__WEBPACK_IMPORTED_MODULE_5__, framer_motion__WEBPACK_IMPORTED_MODULE_6__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n\n\n\n\n\n\n\nconst NavBar = ()=>{\n    const [scrolled, setScrolled] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    const { scrollY } = (0,framer_motion__WEBPACK_IMPORTED_MODULE_6__.useScroll)();\n    (0,framer_motion__WEBPACK_IMPORTED_MODULE_6__.useMotionValueEvent)(scrollY, \"change\", (latest)=>{\n        if (latest > 150) {\n            setScrolled(true);\n        } else {\n            setScrolled(false);\n        }\n    });\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(framer_motion__WEBPACK_IMPORTED_MODULE_6__.motion.nav, {\n        initial: {\n            opacity: 0,\n            y: \"-100%\"\n        },\n        animate: {\n            opacity: 1,\n            y: \"0%\"\n        },\n        transition: {\n            duration: 1.25,\n            ease: \"easeInOut\"\n        },\n        className: `fixed left-0 right-0 top-0 z-50 bg-foreground/0 py-3 transition-colors ${scrolled && \"bg-foreground/80 backdrop-blur\"}`,\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_utils_MaxWidthWrapper__WEBPACK_IMPORTED_MODULE_2__.MaxWidthWrapper, {\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: \"py-2 flex items-center justify-between\",\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                            className: \"flex items-center gap-12\",\n                            children: [\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLogo__WEBPACK_IMPORTED_MODULE_3__.NavLogo, {}, void 0, false, {\n                                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                                    lineNumber: 41,\n                                    columnNumber: 13\n                                }, undefined),\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                                    className: \"hidden md:block\",\n                                    children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLinks__WEBPACK_IMPORTED_MODULE_4__.NavLinks, {}, void 0, false, {\n                                        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                                        lineNumber: 43,\n                                        columnNumber: 15\n                                    }, undefined)\n                                }, void 0, false, {\n                                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                                    lineNumber: 42,\n                                    columnNumber: 13\n                                }, undefined)\n                            ]\n                        }, void 0, true, {\n                            fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                            lineNumber: 40,\n                            columnNumber: 11\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavCTAs__WEBPACK_IMPORTED_MODULE_5__.NavCTAs, {}, void 0, false, {\n                            fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                            lineNumber: 46,\n                            columnNumber: 11\n                        }, undefined)\n                    ]\n                }, void 0, true, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                    lineNumber: 39,\n                    columnNumber: 9\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: \"block pt-1.5 md:hidden\",\n                    children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLinks__WEBPACK_IMPORTED_MODULE_4__.NavLinks, {}, void 0, false, {\n                        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                        lineNumber: 49,\n                        columnNumber: 11\n                    }, undefined)\n                }, void 0, false, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n                    lineNumber: 48,\n                    columnNumber: 9\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n            lineNumber: 38,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavBar.tsx\",\n        lineNumber: 21,\n        columnNumber: 5\n    }, undefined);\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2QmFyLnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7OztBQUF3QztBQUNtQjtBQUN2QjtBQUNFO0FBQ0Y7QUFDbUM7QUFFaEUsTUFBTVMsU0FBUztJQUNwQixNQUFNLENBQUNDLFVBQVVDLFlBQVksR0FBR1YsK0NBQVFBLENBQUM7SUFDekMsTUFBTSxFQUFFVyxPQUFPLEVBQUUsR0FBR0wsd0RBQVNBO0lBRTdCRCxrRUFBbUJBLENBQUNNLFNBQVMsVUFBVSxDQUFDQztRQUN0QyxJQUFJQSxTQUFTLEtBQUs7WUFDaEJGLFlBQVk7UUFDZCxPQUFPO1lBQ0xBLFlBQVk7UUFDZDtJQUNGO0lBRUEscUJBQ0UsOERBQUNILGlEQUFNQSxDQUFDTSxHQUFHO1FBQ1RDLFNBQVM7WUFDUEMsU0FBUztZQUNUQyxHQUFHO1FBQ0w7UUFDQUMsU0FBUztZQUNQRixTQUFTO1lBQ1RDLEdBQUc7UUFDTDtRQUNBRSxZQUFZO1lBQ1ZDLFVBQVU7WUFDVkMsTUFBTTtRQUNSO1FBQ0FDLFdBQVcsQ0FBQyx1RUFBdUUsRUFDakZaLFlBQVksaUNBQ2IsQ0FBQztrQkFFRiw0RUFBQ1IsbUVBQWVBOzs4QkFDZCw4REFBQ3FCO29CQUFJRCxXQUFVOztzQ0FDYiw4REFBQ0M7NEJBQUlELFdBQVU7OzhDQUNiLDhEQUFDbkIsNkNBQU9BOzs7Ozs4Q0FDUiw4REFBQ29CO29DQUFJRCxXQUFVOzhDQUNiLDRFQUFDbEIsK0NBQVFBOzs7Ozs7Ozs7Ozs7Ozs7O3NDQUdiLDhEQUFDQyw2Q0FBT0E7Ozs7Ozs7Ozs7OzhCQUVWLDhEQUFDa0I7b0JBQUlELFdBQVU7OEJBQ2IsNEVBQUNsQiwrQ0FBUUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUtuQixFQUFFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdGhlLXN0YXJ0dXAvLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2QmFyLnRzeD9hMzRkIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyB1c2VTdGF0ZSB9IGZyb20gXCJyZWFjdFwiO1xuaW1wb3J0IHsgTWF4V2lkdGhXcmFwcGVyIH0gZnJvbSBcIi4uL3V0aWxzL01heFdpZHRoV3JhcHBlclwiO1xuaW1wb3J0IHsgTmF2TG9nbyB9IGZyb20gXCIuL05hdkxvZ29cIjtcbmltcG9ydCB7IE5hdkxpbmtzIH0gZnJvbSBcIi4vTmF2TGlua3NcIjtcbmltcG9ydCB7IE5hdkNUQXMgfSBmcm9tIFwiLi9OYXZDVEFzXCI7XG5pbXBvcnQgeyB1c2VNb3Rpb25WYWx1ZUV2ZW50LCB1c2VTY3JvbGwsIG1vdGlvbiB9IGZyb20gXCJmcmFtZXItbW90aW9uXCI7XG5cbmV4cG9ydCBjb25zdCBOYXZCYXIgPSAoKSA9PiB7XG4gIGNvbnN0IFtzY3JvbGxlZCwgc2V0U2Nyb2xsZWRdID0gdXNlU3RhdGUoZmFsc2UpO1xuICBjb25zdCB7IHNjcm9sbFkgfSA9IHVzZVNjcm9sbCgpO1xuXG4gIHVzZU1vdGlvblZhbHVlRXZlbnQoc2Nyb2xsWSwgXCJjaGFuZ2VcIiwgKGxhdGVzdCkgPT4ge1xuICAgIGlmIChsYXRlc3QgPiAxNTApIHtcbiAgICAgIHNldFNjcm9sbGVkKHRydWUpO1xuICAgIH0gZWxzZSB7XG4gICAgICBzZXRTY3JvbGxlZChmYWxzZSk7XG4gICAgfVxuICB9KTtcblxuICByZXR1cm4gKFxuICAgIDxtb3Rpb24ubmF2XG4gICAgICBpbml0aWFsPXt7XG4gICAgICAgIG9wYWNpdHk6IDAsXG4gICAgICAgIHk6IFwiLTEwMCVcIixcbiAgICAgIH19XG4gICAgICBhbmltYXRlPXt7XG4gICAgICAgIG9wYWNpdHk6IDEsXG4gICAgICAgIHk6IFwiMCVcIixcbiAgICAgIH19XG4gICAgICB0cmFuc2l0aW9uPXt7XG4gICAgICAgIGR1cmF0aW9uOiAxLjI1LFxuICAgICAgICBlYXNlOiBcImVhc2VJbk91dFwiLFxuICAgICAgfX1cbiAgICAgIGNsYXNzTmFtZT17YGZpeGVkIGxlZnQtMCByaWdodC0wIHRvcC0wIHotNTAgYmctZm9yZWdyb3VuZC8wIHB5LTMgdHJhbnNpdGlvbi1jb2xvcnMgJHtcbiAgICAgICAgc2Nyb2xsZWQgJiYgXCJiZy1mb3JlZ3JvdW5kLzgwIGJhY2tkcm9wLWJsdXJcIlxuICAgICAgfWB9XG4gICAgPlxuICAgICAgPE1heFdpZHRoV3JhcHBlcj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJweS0yIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlblwiPlxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEyXCI+XG4gICAgICAgICAgICA8TmF2TG9nbyAvPlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJoaWRkZW4gbWQ6YmxvY2tcIj5cbiAgICAgICAgICAgICAgPE5hdkxpbmtzIC8+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8TmF2Q1RBcyAvPlxuICAgICAgICA8L2Rpdj5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJibG9jayBwdC0xLjUgbWQ6aGlkZGVuXCI+XG4gICAgICAgICAgPE5hdkxpbmtzIC8+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9NYXhXaWR0aFdyYXBwZXI+XG4gICAgPC9tb3Rpb24ubmF2PlxuICApO1xufTtcbiJdLCJuYW1lcyI6WyJSZWFjdCIsInVzZVN0YXRlIiwiTWF4V2lkdGhXcmFwcGVyIiwiTmF2TG9nbyIsIk5hdkxpbmtzIiwiTmF2Q1RBcyIsInVzZU1vdGlvblZhbHVlRXZlbnQiLCJ1c2VTY3JvbGwiLCJtb3Rpb24iLCJOYXZCYXIiLCJzY3JvbGxlZCIsInNldFNjcm9sbGVkIiwic2Nyb2xsWSIsImxhdGVzdCIsIm5hdiIsImluaXRpYWwiLCJvcGFjaXR5IiwieSIsImFuaW1hdGUiLCJ0cmFuc2l0aW9uIiwiZHVyYXRpb24iLCJlYXNlIiwiY2xhc3NOYW1lIiwiZGl2Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/navbar/NavBar.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/navbar/NavCTAs.tsx":
+/*!*******************************************!*\
+  !*** ./src/components/navbar/NavCTAs.tsx ***!
+  \*******************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NavCTAs: () => (/* binding */ NavCTAs)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _buttons_SplashButton__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../buttons/SplashButton */ \"./src/components/buttons/SplashButton.tsx\");\n/* harmony import */ var _buttons_GhostButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../buttons/GhostButton */ \"./src/components/buttons/GhostButton.tsx\");\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! next/router */ \"./node_modules/next/router.js\");\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_4__);\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_buttons_SplashButton__WEBPACK_IMPORTED_MODULE_2__, _buttons_GhostButton__WEBPACK_IMPORTED_MODULE_3__]);\n([_buttons_SplashButton__WEBPACK_IMPORTED_MODULE_2__, _buttons_GhostButton__WEBPACK_IMPORTED_MODULE_3__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n\n\n\n\n\nconst NavCTAs = ()=>{\n    const router = (0,next_router__WEBPACK_IMPORTED_MODULE_4__.useRouter)();\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex items-center gap-2\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_buttons_GhostButton__WEBPACK_IMPORTED_MODULE_3__.GhostButton, {\n                onClick: ()=>router.push(\"/signin\"),\n                className: \"rounded-md px-4 py-1 text-base\",\n                children: \"Contact Us\"\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavCTAs.tsx\",\n                lineNumber: 10,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_buttons_SplashButton__WEBPACK_IMPORTED_MODULE_2__.SplashButton, {\n                className: \"px-4 py-1 text-base text-zinc-100\",\n                children: \"Sign in\"\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavCTAs.tsx\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavCTAs.tsx\",\n        lineNumber: 9,\n        columnNumber: 5\n    }, undefined);\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2Q1RBcy50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7OztBQUEwQjtBQUM2QjtBQUNGO0FBQ2I7QUFFakMsTUFBTUksVUFBVTtJQUNyQixNQUFNQyxTQUFTRixzREFBU0E7SUFDeEIscUJBQ0UsOERBQUNHO1FBQUlDLFdBQVU7OzBCQUNiLDhEQUFDTCw2REFBV0E7Z0JBQ1ZNLFNBQVMsSUFBTUgsT0FBT0ksSUFBSSxDQUFDO2dCQUMzQkYsV0FBVTswQkFDWDs7Ozs7OzBCQUdELDhEQUFDTiwrREFBWUE7Z0JBRVhNLFdBQVU7MEJBQ1g7Ozs7Ozs7Ozs7OztBQUtQLEVBQUUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90aGUtc3RhcnR1cC8uL3NyYy9jb21wb25lbnRzL25hdmJhci9OYXZDVEFzLnRzeD8xMzIyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCB7IFNwbGFzaEJ1dHRvbiB9IGZyb20gXCIuLi9idXR0b25zL1NwbGFzaEJ1dHRvblwiO1xuaW1wb3J0IHsgR2hvc3RCdXR0b24gfSBmcm9tIFwiLi4vYnV0dG9ucy9HaG9zdEJ1dHRvblwiO1xuaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSBcIm5leHQvcm91dGVyXCI7XG5cbmV4cG9ydCBjb25zdCBOYXZDVEFzID0gKCkgPT4ge1xuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcbiAgcmV0dXJuIChcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImZsZXggaXRlbXMtY2VudGVyIGdhcC0yXCI+XG4gICAgICA8R2hvc3RCdXR0b25cbiAgICAgICAgb25DbGljaz17KCkgPT4gcm91dGVyLnB1c2goXCIvc2lnbmluXCIpfVxuICAgICAgICBjbGFzc05hbWU9XCJyb3VuZGVkLW1kIHB4LTQgcHktMSB0ZXh0LWJhc2VcIlxuICAgICAgPlxuICAgICAgICBDb250YWN0IFVzXG4gICAgICA8L0dob3N0QnV0dG9uPlxuICAgICAgPFNwbGFzaEJ1dHRvblxuICAgICAgIFxuICAgICAgICBjbGFzc05hbWU9XCJweC00IHB5LTEgdGV4dC1iYXNlIHRleHQtemluYy0xMDBcIlxuICAgICAgPlxuICAgICAgICBTaWduIGluXG4gICAgICA8L1NwbGFzaEJ1dHRvbj5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG4iXSwibmFtZXMiOlsiUmVhY3QiLCJTcGxhc2hCdXR0b24iLCJHaG9zdEJ1dHRvbiIsInVzZVJvdXRlciIsIk5hdkNUQXMiLCJyb3V0ZXIiLCJkaXYiLCJjbGFzc05hbWUiLCJvbkNsaWNrIiwicHVzaCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/components/navbar/NavCTAs.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/navbar/NavLink.tsx":
+/*!*******************************************!*\
+  !*** ./src/components/navbar/NavLink.tsx ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NavLink: () => (/* binding */ NavLink)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nconst NavLink = ({ children, external, href = \"#\" })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {\n        href: href,\n        rel: \"nofollow\",\n        target: external ? \"_blank\" : undefined,\n        className: \"transition-colors hover:text-copy-dark\",\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLink.tsx\",\n        lineNumber: 15,\n        columnNumber: 5\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2TGluay50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFBNkI7QUFDSDtBQUduQixNQUFNRSxVQUFVLENBQUMsRUFDdEJDLFFBQVEsRUFDUkMsUUFBUSxFQUNSQyxPQUFPLEdBQUcsRUFLWDtJQUNDLHFCQUNFLDhEQUFDTCxrREFBSUE7UUFDSEssTUFBTUE7UUFDTkMsS0FBSTtRQUNKQyxRQUFRSCxXQUFXLFdBQVdJO1FBQzlCQyxXQUFVO2tCQUVUTjs7Ozs7O0FBR1AsRUFBRSIsInNvdXJjZXMiOlsid2VicGFjazovL3RoZS1zdGFydHVwLy4vc3JjL2NvbXBvbmVudHMvbmF2YmFyL05hdkxpbmsudHN4PzViNTciXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuaW1wb3J0IFJlYWN0IGZyb20gXCJyZWFjdFwiO1xuaW1wb3J0IHsgRmlBcnJvd1VwUmlnaHQgfSBmcm9tIFwicmVhY3QtaWNvbnMvZmlcIjtcblxuZXhwb3J0IGNvbnN0IE5hdkxpbmsgPSAoe1xuICBjaGlsZHJlbixcbiAgZXh0ZXJuYWwsXG4gIGhyZWYgPSBcIiNcIixcbn06IHtcbiAgY2hpbGRyZW46IHN0cmluZztcbiAgZXh0ZXJuYWw/OiBib29sZWFuO1xuICBocmVmPzogc3RyaW5nO1xufSkgPT4ge1xuICByZXR1cm4gKFxuICAgIDxMaW5rXG4gICAgICBocmVmPXtocmVmfVxuICAgICAgcmVsPVwibm9mb2xsb3dcIlxuICAgICAgdGFyZ2V0PXtleHRlcm5hbCA/IFwiX2JsYW5rXCIgOiB1bmRlZmluZWR9XG4gICAgICBjbGFzc05hbWU9XCJ0cmFuc2l0aW9uLWNvbG9ycyBob3Zlcjp0ZXh0LWNvcHktZGFya1wiXG4gICAgPlxuICAgICAge2NoaWxkcmVufVxuICAgIDwvTGluaz5cbiAgKTtcbn07XG4iXSwibmFtZXMiOlsiTGluayIsIlJlYWN0IiwiTmF2TGluayIsImNoaWxkcmVuIiwiZXh0ZXJuYWwiLCJocmVmIiwicmVsIiwidGFyZ2V0IiwidW5kZWZpbmVkIiwiY2xhc3NOYW1lIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/navbar/NavLink.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/navbar/NavLinks.tsx":
+/*!********************************************!*\
+  !*** ./src/components/navbar/NavLinks.tsx ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NavLinks: () => (/* binding */ NavLinks)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _NavLink__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./NavLink */ \"./src/components/navbar/NavLink.tsx\");\n\n\n\nconst NavLinks = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"ul\", {\n        className: \"flex gap-3 text-copy md:gap-9\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLink__WEBPACK_IMPORTED_MODULE_2__.NavLink, {\n                    href: \"/#\",\n                    children: \"Home\"\n                }, void 0, false, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                    lineNumber: 8,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                lineNumber: 7,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLink__WEBPACK_IMPORTED_MODULE_2__.NavLink, {\n                    href: \"/#\",\n                    children: \"Features\"\n                }, void 0, false, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                    lineNumber: 11,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                lineNumber: 10,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLink__WEBPACK_IMPORTED_MODULE_2__.NavLink, {\n                    href: \"/#\",\n                    children: \"Pricing\"\n                }, void 0, false, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                    lineNumber: 14,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                lineNumber: 13,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_NavLink__WEBPACK_IMPORTED_MODULE_2__.NavLink, {\n                    href: \"/#\",\n                    children: \"Docs\"\n                }, void 0, false, {\n                    fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                    lineNumber: 17,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLinks.tsx\",\n        lineNumber: 6,\n        columnNumber: 5\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2TGlua3MudHN4IiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBMEI7QUFDVTtBQUU3QixNQUFNRSxXQUFXO0lBQ3RCLHFCQUNFLDhEQUFDQztRQUFHQyxXQUFVOzswQkFDWiw4REFBQ0M7MEJBQ0MsNEVBQUNKLDZDQUFPQTtvQkFBQ0ssTUFBSzs4QkFBSzs7Ozs7Ozs7Ozs7MEJBRXJCLDhEQUFDRDswQkFDQyw0RUFBQ0osNkNBQU9BO29CQUFDSyxNQUFLOzhCQUFLOzs7Ozs7Ozs7OzswQkFFckIsOERBQUNEOzBCQUNDLDRFQUFDSiw2Q0FBT0E7b0JBQUNLLE1BQUs7OEJBQUs7Ozs7Ozs7Ozs7OzBCQUVyQiw4REFBQ0Q7MEJBQ0MsNEVBQUNKLDZDQUFPQTtvQkFBQ0ssTUFBSzs4QkFBSzs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFLM0IsRUFBRSIsInNvdXJjZXMiOlsid2VicGFjazovL3RoZS1zdGFydHVwLy4vc3JjL2NvbXBvbmVudHMvbmF2YmFyL05hdkxpbmtzLnRzeD85OTQ3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCB7IE5hdkxpbmsgfSBmcm9tIFwiLi9OYXZMaW5rXCI7XG5cbmV4cG9ydCBjb25zdCBOYXZMaW5rcyA9ICgpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8dWwgY2xhc3NOYW1lPVwiZmxleCBnYXAtMyB0ZXh0LWNvcHkgbWQ6Z2FwLTlcIj5cbiAgICAgIDxsaT5cbiAgICAgICAgPE5hdkxpbmsgaHJlZj1cIi8jXCI+SG9tZTwvTmF2TGluaz5cbiAgICAgIDwvbGk+XG4gICAgICA8bGk+XG4gICAgICAgIDxOYXZMaW5rIGhyZWY9XCIvI1wiPkZlYXR1cmVzPC9OYXZMaW5rPlxuICAgICAgPC9saT5cbiAgICAgIDxsaT5cbiAgICAgICAgPE5hdkxpbmsgaHJlZj1cIi8jXCI+UHJpY2luZzwvTmF2TGluaz5cbiAgICAgIDwvbGk+XG4gICAgICA8bGk+XG4gICAgICAgIDxOYXZMaW5rIGhyZWY9XCIvI1wiPkRvY3M8L05hdkxpbms+XG4gICAgICA8L2xpPlxuICAgICBcbiAgICA8L3VsPlxuICApO1xufTtcbiJdLCJuYW1lcyI6WyJSZWFjdCIsIk5hdkxpbmsiLCJOYXZMaW5rcyIsInVsIiwiY2xhc3NOYW1lIiwibGkiLCJocmVmIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/navbar/NavLinks.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/navbar/NavLogo.tsx":
+/*!*******************************************!*\
+  !*** ./src/components/navbar/NavLogo.tsx ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NavLogo: () => (/* binding */ NavLogo)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/image */ \"./node_modules/next/image.js\");\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _denzing_svg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./denzing.svg */ \"./src/components/navbar/denzing.svg\");\n\n\n\n\n\nconst NavLogo = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_1___default()), {\n        href: \"/\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_3___default()), {\n            src: _denzing_svg__WEBPACK_IMPORTED_MODULE_4__[\"default\"],\n            alt: \"Denzing Logo\",\n            height: 36,\n            priority: true\n        }, void 0, false, {\n            fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLogo.tsx\",\n            lineNumber: 9,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/navbar/NavLogo.tsx\",\n        lineNumber: 8,\n        columnNumber: 5\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2TG9nby50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7QUFBNkI7QUFDSDtBQUNLO0FBQ1M7QUFFakMsTUFBTUksVUFBVTtJQUNyQixxQkFDRSw4REFBQ0osa0RBQUlBO1FBQUNLLE1BQUs7a0JBQ1QsNEVBQUNILG1EQUFLQTtZQUNKSSxLQUFLSCxvREFBV0E7WUFDaEJJLEtBQUk7WUFFSkMsUUFBUTtZQUNSQyxRQUFROzs7Ozs7Ozs7OztBQUloQixFQUFFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdGhlLXN0YXJ0dXAvLi9zcmMvY29tcG9uZW50cy9uYXZiYXIvTmF2TG9nby50c3g/MTA4YSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5pbXBvcnQgUmVhY3QgZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgSW1hZ2UgZnJvbSBcIm5leHQvaW1hZ2VcIjtcbmltcG9ydCBEZW56aW5nTG9nbyBmcm9tIFwiLi9kZW56aW5nLnN2Z1wiO1xuXG5leHBvcnQgY29uc3QgTmF2TG9nbyA9ICgpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgPEltYWdlIFxuICAgICAgICBzcmM9e0RlbnppbmdMb2dvfVxuICAgICAgICBhbHQ9XCJEZW56aW5nIExvZ29cIlxuICAgICAgICBcbiAgICAgICAgaGVpZ2h0PXszNn1cbiAgICAgICAgcHJpb3JpdHlcbiAgICAgIC8+XG4gICAgPC9MaW5rPlxuICApO1xufTtcbiJdLCJuYW1lcyI6WyJMaW5rIiwiUmVhY3QiLCJJbWFnZSIsIkRlbnppbmdMb2dvIiwiTmF2TG9nbyIsImhyZWYiLCJzcmMiLCJhbHQiLCJoZWlnaHQiLCJwcmlvcml0eSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/components/navbar/NavLogo.tsx\n");
+
+/***/ }),
+
+/***/ "./src/components/utils/MaxWidthWrapper.tsx":
+/*!**************************************************!*\
+  !*** ./src/components/utils/MaxWidthWrapper.tsx ***!
+  \**************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   MaxWidthWrapper: () => (/* binding */ MaxWidthWrapper)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var tailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! tailwind-merge */ \"tailwind-merge\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([tailwind_merge__WEBPACK_IMPORTED_MODULE_2__]);\ntailwind_merge__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\nconst MaxWidthWrapper = ({ children, className = \"\" })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (0,tailwind_merge__WEBPACK_IMPORTED_MODULE_2__.twMerge)(\"mx-auto max-w-7xl px-4 md:px-8\", className),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/rubin/Desktop/denzing/denzing/src/components/utils/MaxWidthWrapper.tsx\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, undefined);\n};\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29tcG9uZW50cy91dGlscy9NYXhXaWR0aFdyYXBwZXIudHN4IiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7QUFBMEI7QUFDZTtBQU9sQyxNQUFNRSxrQkFBa0IsQ0FBQyxFQUFFQyxRQUFRLEVBQUVDLFlBQVksRUFBRSxFQUFTO0lBQ2pFLHFCQUNFLDhEQUFDQztRQUFJRCxXQUFXSCx1REFBT0EsQ0FBQyxrQ0FBa0NHO2tCQUN2REQ7Ozs7OztBQUdQLEVBQUUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90aGUtc3RhcnR1cC8uL3NyYy9jb21wb25lbnRzL3V0aWxzL01heFdpZHRoV3JhcHBlci50c3g/OTM3NiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgeyB0d01lcmdlIH0gZnJvbSBcInRhaWx3aW5kLW1lcmdlXCI7XG5cbmludGVyZmFjZSBQcm9wcyB7XG4gIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7XG4gIGNsYXNzTmFtZT86IHN0cmluZztcbn1cblxuZXhwb3J0IGNvbnN0IE1heFdpZHRoV3JhcHBlciA9ICh7IGNoaWxkcmVuLCBjbGFzc05hbWUgPSBcIlwiIH06IFByb3BzKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9e3R3TWVyZ2UoXCJteC1hdXRvIG1heC13LTd4bCBweC00IG1kOnB4LThcIiwgY2xhc3NOYW1lKX0+XG4gICAgICB7Y2hpbGRyZW59XG4gICAgPC9kaXY+XG4gICk7XG59O1xuIl0sIm5hbWVzIjpbIlJlYWN0IiwidHdNZXJnZSIsIk1heFdpZHRoV3JhcHBlciIsImNoaWxkcmVuIiwiY2xhc3NOYW1lIiwiZGl2Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/components/utils/MaxWidthWrapper.tsx\n");
+
+/***/ }),
+
+/***/ "./src/pages/_app.tsx":
+/*!****************************!*\
+  !*** ./src/pages/_app.tsx ***!
+  \****************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ App)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_navbar_NavBar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/navbar/NavBar */ \"./src/components/navbar/NavBar.tsx\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/styles/globals.css */ \"./src/styles/globals.css\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_2__);\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_navbar_NavBar__WEBPACK_IMPORTED_MODULE_1__]);\n_components_navbar_NavBar__WEBPACK_IMPORTED_MODULE_1__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n\nfunction App({ Component, pageProps }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_navbar_NavBar__WEBPACK_IMPORTED_MODULE_1__.NavBar, {}, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/pages/_app.tsx\",\n                lineNumber: 8,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Component, {\n                ...pageProps\n            }, void 0, false, {\n                fileName: \"/Users/rubin/Desktop/denzing/denzing/src/pages/_app.tsx\",\n                lineNumber: 9,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true);\n}\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvX2FwcC50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7OztBQUFvRDtBQUN0QjtBQUdmLFNBQVNDLElBQUksRUFBRUMsU0FBUyxFQUFFQyxTQUFTLEVBQVk7SUFDNUQscUJBQ0U7OzBCQUNFLDhEQUFDSCw2REFBTUE7Ozs7OzBCQUNQLDhEQUFDRTtnQkFBVyxHQUFHQyxTQUFTOzs7Ozs7OztBQUc5QiIsInNvdXJjZXMiOlsid2VicGFjazovL3RoZS1zdGFydHVwLy4vc3JjL3BhZ2VzL19hcHAudHN4P2Y5ZDYiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmF2QmFyIH0gZnJvbSBcIkAvY29tcG9uZW50cy9uYXZiYXIvTmF2QmFyXCI7XG5pbXBvcnQgXCJAL3N0eWxlcy9nbG9iYWxzLmNzc1wiO1xuaW1wb3J0IHR5cGUgeyBBcHBQcm9wcyB9IGZyb20gXCJuZXh0L2FwcFwiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBBcHAoeyBDb21wb25lbnQsIHBhZ2VQcm9wcyB9OiBBcHBQcm9wcykge1xuICByZXR1cm4gKFxuICAgIDw+XG4gICAgICA8TmF2QmFyIC8+XG4gICAgICA8Q29tcG9uZW50IHsuLi5wYWdlUHJvcHN9IC8+XG4gICAgPC8+XG4gICk7XG59XG4iXSwibmFtZXMiOlsiTmF2QmFyIiwiQXBwIiwiQ29tcG9uZW50IiwicGFnZVByb3BzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/pages/_app.tsx\n");
+
+/***/ }),
+
+/***/ "./src/styles/globals.css":
+/*!********************************!*\
+  !*** ./src/styles/globals.css ***!
+  \********************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+/***/ "next/dist/compiled/next-server/pages.runtime.dev.js":
+/*!**********************************************************************!*\
+  !*** external "next/dist/compiled/next-server/pages.runtime.dev.js" ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/dist/compiled/next-server/pages.runtime.dev.js");
+
+/***/ }),
+
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react");
+
+/***/ }),
+
+/***/ "react-dom":
+/*!****************************!*\
+  !*** external "react-dom" ***!
+  \****************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react-dom");
+
+/***/ }),
+
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react/jsx-dev-runtime");
+
+/***/ }),
+
+/***/ "react/jsx-runtime":
+/*!************************************!*\
+  !*** external "react/jsx-runtime" ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react/jsx-runtime");
+
+/***/ }),
+
+/***/ "framer-motion":
+/*!********************************!*\
+  !*** external "framer-motion" ***!
+  \********************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = import("framer-motion");;
+
+/***/ }),
+
+/***/ "tailwind-merge":
+/*!*********************************!*\
+  !*** external "tailwind-merge" ***!
+  \*********************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = import("tailwind-merge");;
+
+/***/ }),
+
+/***/ "fs":
+/*!*********************!*\
+  !*** external "fs" ***!
+  \*********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("fs");
+
+/***/ }),
+
+/***/ "path":
+/*!***********************!*\
+  !*** external "path" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("path");
+
+/***/ }),
+
+/***/ "stream":
+/*!*************************!*\
+  !*** external "stream" ***!
+  \*************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("stream");
+
+/***/ }),
+
+/***/ "util":
+/*!***********************!*\
+  !*** external "util" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("util");
+
+/***/ }),
+
+/***/ "zlib":
+/*!***********************!*\
+  !*** external "zlib" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("zlib");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../webpack-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc"], () => (__webpack_exec__("./src/pages/_app.tsx")));
+module.exports = __webpack_exports__;
+
+})();
